@@ -5,7 +5,7 @@ Go developer and Fish shell user. I use arch btw!
 #### 🛠️ Featured Project
 
 * **[golfetch](https://github.com/snowvy01/golfetch)** — A suckless system fetch tool written in Go.
-  * ⚡ **Performance:** ~4ms total execution time (vs ~124ms fastfetch).
+  * ⚡ **Performance:** ~10ms total execution time (vs ~124ms fastfetch).
   * 🛠️ **Zero-config:** Zero heavy dependencies, pure speed and code readability.
   * 📦 **AUR:** `golfetch-git`
 
