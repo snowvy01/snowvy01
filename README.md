@@ -1,19 +1,23 @@
-### Snowvy (snowvy01)
+# Snowvy (snowvy01)
 
-Go developer and Fish shell user. I use arch btw!
-
-#### 🛠️ Featured Project
-
-* **[golfetch](https://github.com/snowvy01/golfetch)** — A suckless system fetch tool written in Go.
-  * ⚡ **Performance:** ~10ms total execution time (vs ~124ms fastfetch).
-  * 🛠️ **Zero-config:** Zero heavy dependencies, pure speed and code readability.
-  * 📦 **AUR:** `golfetch-git`
-
+Go and Rust developer and Fish shell user. Using Arch btw!
 #### 🧰 Environment & Stack
 
 * **Languages:** Go & Rust
-* **Shell:** Fish Shell (easiest shell of all I used)
+* **Shell:** Fish *(easiest shell of all I used)*
 * **OS & WM:** Arch Linux + Hyprland
+
+#### 🛠️ Featured Project
+
+* **[golfetch](https://github.com/snowvy01/golfetch)** — A suckless system fetching tool written in Go.
+  * ⚡️ **Performance:** ~10ms total execution time (vs ~100ms fastfetch).
+  * 🛠️ **Zero-config:** Zero heavy dependencies, pure speed and code readability.
+  * 📦 **AUR:** [`golfetch-git`](https://aur.archlinux.org/packages/golfetch-git)
+
+#### 📬️ Contact me!
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a40166895@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/snowvy01)
 
 ---
 *📍 Israel*
