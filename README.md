@@ -4,7 +4,7 @@ Go and Rust developer.
 #### 🧰 Environment & Stack
 
 * **Languages:** Go & Rust
-* **OS** Arch Linux
+* **OS:** Arch Linux
 
 #### 🛠️ Featured Project
 
